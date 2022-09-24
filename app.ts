@@ -1,5 +1,7 @@
 
+const a:number = 10
 
-const msg = 'Hola mundo'
+let b: string
 
-console.log(msg)
+
+console.log(a)
